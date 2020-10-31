@@ -23,3 +23,4 @@ From inside the shell, run the tests with:
 
 `go test -v ./module1/ ./module2/`
 
+Erik
